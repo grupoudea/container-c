@@ -23,3 +23,11 @@ can create .
 # Default configurations
 - Does not allow to run more than 20 process 
 - Max memory limit 600.000 bytes (~ 0.6 mb)
+
+# References - credits
+- https://cesarvr.io/post/2018-05-22-create-containers/
+- https://github.com/nathanagez/c_container
+- https://devarea.com/simple-container-app-with-namespaces/#.Yy0Dv9LMJhE
+- https://devarea.com/linux-control-groups/#.Yy0LtdLMJhF
+- https://www.grant.pizza/blog/understanding-cgroups/
+- https://docs.kernel.org/admin-guide/cgroup-v1/pids.html
